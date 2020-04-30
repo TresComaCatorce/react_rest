@@ -11,7 +11,7 @@
 	"author": "Cristian Ferrero",
 	"license": "MIT",
 	"dependencies": {
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"react": "^16.10.1",
 		"react-dom": "^16.10.1"
 	},
